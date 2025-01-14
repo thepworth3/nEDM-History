@@ -1,2 +1,2 @@
 # nEDM-History
-This repository contains the data for all nEDM measurements as of January 2025, and allows one to plot them.
+This repository contains the data for all nEDM measurements as of January 2025, and allows one to plot them. It includes shaded regions for different theory predictions. New data can be added, and aspects of the plot can be altered/removed.
