@@ -94,8 +94,8 @@ ax1.semilogy(year_PNPI, nEDM_PNPI, "bD", label="PNPI (UCN)")
 ax1.semilogy(year_ILL_UCN, nEDM_ILL_UCN, "rv", label="ILL (UCN)")
 ax1.semilogy(year_PSI, nEDM_PSI, "g*", label="PSI (UCN)")
 #include line for current gen experiment
-ax1.axhline(y=1e-27, color='r', linestyle='--')
-ax1.text(1995, 1.4e-27, "TUCAN, others")
+# ax1.axhline(y=2e-27, color='r', linestyle='--')
+#ax1.text(1995, 1.4e-27, "TUCAN, others") TUCAN line if you want!!!!!
 
 
 ax2.semilogy(year_ANL, nEDM_ANL, "bs", label="ANL (neutron scattering)")
