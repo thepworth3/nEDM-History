@@ -3,4 +3,4 @@ This repository contains the data for all nEDM measurements as of January 2025, 
 
 Data includes nEDM upper limits, experiment method, lab which preformed the experiment, year of publication, and a reference (although not all measurements have a reference)
 
-\big{NOT}
+NOTE: not all measurements are using the same confidence interval in this plot, please consult the references.
