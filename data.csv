@@ -1,19 +1,19 @@
 ﻿Year,Experiment,nEDM,Lab,Reference
-1950,Neutron scattering,3.00E-18,ANL,-
-1957,Cold neutron beam,4.00E-20,ORNL,-
-1967,Bragg Reflection,8.00E-22,MIT/BNL,-
-1967,Cold neutron beam,7.00E-22,ORNL,-
-1968,Cold neutron beam,3.00E-22,ORNL,-
-1969,Cold neutron beam,5.00E-23,ORNL,-
-1969,Cold neutron beam,1.00E-21,BNL,-
-1973,Cold neutron beam,1.00E-23,ORNL,-
-1977,Cold neutron beam,3.00E-24,ILL,-
-1980,UCN,1.60E-24,PNPI,-
-1981,UCN,6.00E-25,PNPI,-
-1984,UCN,8.00E-25,ILL,-
-1986,UCN,2.60E-25,PNPI,-
-1990,UCN,1.20E-25,ILL,-
-1992,UCN,9.70E-26,PNPI,-
+1950,Neutron scattering,3.00E-18,ANL,Phys. Rev. 72:634{636
+1957,Cold neutron beam,4.00E-20,ORNL,Phys. Rev. 108:120{122
+1967,Bragg Reflection,8.00E-22,MIT/BNL,Phys. Rev. Lett., 19:384{386
+1967,Cold neutron beam,7.00E-22,ORNL,Phys. Rev. Lett., 19:381-384
+1968,Cold neutron beam,3.00E-22,ORNL,-Phys. Rev.170:1200-1206
+1969,Cold neutron beam,5.00E-23,ORNL,- Phys. Rev. 179:1285-1291
+1969,Cold neutron beam,1.00E-21,BNL,- Phys. Rev. 177:1942-1945
+1973,Cold neutron beam,1.00E-23,ORNL,- Phys. Rev. D 7:3147-3149
+1977,Cold neutron beam,3.00E-24,ILL,Phys. Rev. D 15:9{21
+1980,UCN,1.60E-24,PNPI,Nuclear Physics A 341(2):269-283
+1981,UCN,6.00E-25,PNPI,Physics Letters B 102(1):13-16
+1984,UCN,8.00E-25,ILL,Physics Letters B 136(5):327-330
+1986,UCN,2.60E-25,PNPI,JETP. Lett. 44(8)
+1990,UCN,1.20E-25,ILL,Physics Letters B, 234(1):191-196
+1992,UCN,9.70E-26,PNPI,Physics Letters B 276(1):242-246
 1999,UCN,6.30E-26,ILL,*1999年まではSNS EDM proposal (2002) Table III-Aを参照した
 2006,UCN,2.90E-26,ILL,"Phys. Rev. Lett. 97, 131801 (2006)"
 2015,UCN,5.50E-26,PNPI,"Phys. Rev. D 92, 092003 (2015)"
